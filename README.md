@@ -1,2 +1,1 @@
-This is my first repository!
-This line was added in main branch.
+This line was added in main branch and conflict-branch are both merged successfully!
